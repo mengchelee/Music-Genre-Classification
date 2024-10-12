@@ -21,7 +21,7 @@ The networks were trained using Adam (for Net1, Net2, Net3) and RMSProp (for Net
  -> Struggles to identify hip-hop and rock music, with no correct predictions for hip-hop (50 epochs) and only one correct prediction (100 epochs).
  
 ### Net2
-![image]()
+![image](https://github.com/mengchelee/Music-Genre-Classification/blob/main/net1_epoch_100.png)
 
 	•	Accuracy: 62.38% (50 epochs), 66.34% (100 epochs)
 -> Performs well in metal and reggae genres but struggles with rock classification.
