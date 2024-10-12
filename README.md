@@ -6,6 +6,7 @@ This project implements and compares four deep learning classifiers trained on t
 
 1.	Net1: Fully connected network
 2.	Net2: Convolutional network
+![image](picture or gif url)
 3.	Net3: Convolutional network with batch normalization
 4.	Net4: Convolutional network with RMSProp optimizer
 
